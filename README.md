@@ -1,4 +1,4 @@
-# ⚽ Sportex
+#  Sportex Chain
 
 **Sportex** is a next-generation sports marketplace where fans don’t lose their stakes in one-off bets.
 Instead, they hold **tradable, unexpired positions** tied to their favorite teams’ performance.
